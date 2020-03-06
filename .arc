@@ -1,5 +1,5 @@
 @app
-begin-app
+awaken-73q
 
 @static
 folder dist
